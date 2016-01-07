@@ -8,6 +8,7 @@
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,400italic);
 
 /**************/
 /* BASE RULES */
@@ -19,7 +20,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 'Source Sans pro';
   color: $darkGray;
 }
 
