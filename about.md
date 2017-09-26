@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a student of Amrita University - Amritapuri campus. 
+I'm a student of Amrita University - Amritapuri campus, pursuing studies in Computer Science. I'm a follower of the theoretical division, and I must say I love the field, although I'm a novice.
 
 ### Profiles and contact details
 
